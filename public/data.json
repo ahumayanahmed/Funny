@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bull_001",
+    "title": "ভোলার দেশি ষাঁড়",
+    "description": "খুব শক্তিশালী ও কৃষিকাজে উপযোগী",
+    "image": "https://i.ibb.co.com/Fkxwt2Hb/Screenshot-2026-05-09-161003.png",
+    "category": "Vola ষাঁড়",
+    "price": 300000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_002",
+    "title": "বরিশালের বড় ষাঁড়",
+    "description": "ভারী শরীর ও শক্তিশালী গঠন",
+    "image": "https://i.ibb.co.com/66Cbq0Z/Screenshot-2026-05-09-161033.png",
+    "category": "Barishal ষাঁড়",
+    "price": 100000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_003",
+    "title": "Narayanganjer দেশি ষাঁড়",
+    "description": "কৃষিকাজ ও ভার বহনে সক্ষম",
+    "image": "https://i.ibb.co.com/dwV1n6k8/Screenshot-2026-05-09-161416.png",
+    "category": "Narayanganj ষাঁড়",
+    "price": 250000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_004",
+    "title": "Sirajganjer লাল ষাঁড়",
+    "description": "গ্রামাঞ্চলের জনপ্রিয় শক্তিশালী জাত",
+    "image": "https://i.ibb.co.com/wNkNMzxd/Screenshot-2026-05-09-161113.png",
+    "category": "Sirajganj ষাঁড়",
+    "price": 70000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_005",
+    "title": "সুন্দরবনের ভারী ষাঁড়",
+    "description": "কঠিন পরিবেশে টিকে থাকার ক্ষমতা",
+    "image": "https://i.ibb.co.com/JjLjyQwd/Screenshot-2026-05-09-161537.png",
+    "category": "Jassore ষাঁড়",
+    "price": 110000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_006",
+    "title": "দেশি সাদা ষাঁড়",
+    "description": "শান্ত স্বভাব ও সহজে লালনযোগ্য",
+    "image": "https://i.ibb.co.com/4xwYVgc/Screenshot-2026-05-09-161435.png",
+    "category": "Norshingdhi ষাঁড়",
+    "price": 200000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_007",
+    "title": "হেভি ওয়েট ষাঁড়",
+    "description": "অত্যন্ত ভারী ও শক্তিশালী শরীর",
+    "image": "https://i.ibb.co.com/ymxGBWNs/Screenshot-2026-05-09-161142.png",
+    "category": "Dhaka ষাঁড়",
+    "price": 20000,
+    "currency": "BDT",
+    "inStock": true
+  },
+  {
+    "id": "bull_008",
+    "title": "গ্রামবাংলার ষাঁড়",
+    "description": "দেশি জাতের সহজ লালনযোগ্য ষাঁড়",
+    "image": "https://i.ibb.co.com/6RrD6nHr/Screenshot-2026-05-09-161623.png",
+    "category": "Feni ষাঁড়",
+    "price": 90000,
+    "currency": "BDT",
+    "inStock": true
+  }
+]
